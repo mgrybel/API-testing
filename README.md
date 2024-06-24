@@ -10,6 +10,7 @@ Install the following prerequisites:
 2. [Node.js](https://nodejs.org/en/)
 3. [PostgreSQL](https://www.postgresql.org/download/)
 4. [Visual Studio Code](https://code.visualstudio.com/download)
+5. [Postman](https://www.postman.com/downloads/)
 
 ## System Under Test (SUT)
 
