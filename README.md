@@ -41,3 +41,7 @@ The **Collection Runner** enables you to run the requests in a Postman Collect
 1. Select **Collections** in the sidebar and select the imported Postman collection.
 2. Click three dots on the right and select **Run collection**.
 3. Select the **Run manually** option and click **Run EcommerceWebsiteAPITests**.
+
+![plot](https://github.com/mgrybel/api-testing-postman/blob/master/images/step2.png?raw=true)
+
+![plot](https://github.com/mgrybel/api-testing-postman/blob/master/images/step3.png?raw=true)
