@@ -34,4 +34,4 @@ Here are the steps to import a JSON collection into Postman:
 3. Click the **Import** button to load the collection.
 4. The collection will now be available in Postman under **Collections** on the left sidebar. All folders and requests will be imported.
 
-![plot](https://github.com/mgrybel/api-testing-postman/blob/master/frontend/public/images/step1.png?raw=true)
+![plot](https://github.com/mgrybel/api-testing-postman/blob/images/step1.png?raw=true)
