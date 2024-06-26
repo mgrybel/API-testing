@@ -22,5 +22,14 @@ To run tests in this project, you must first install and run the SUT. Follow [th
 
 Download the ZIP file and unzip the project.
 
-Inside the ZIP file, you will find the 
+Inside the ZIP file, you will find the
 **EcommerceWebsiteAPITests.postman_collection.json** file, which is a Postman collection containing a group of saved requests.
+
+## Import a JSON collection into Postman
+
+Here are the steps to import a JSON collection into Postman:
+
+1. Open Postman and click the **Import** button in the top left.
+2. In the import modal, click **Select Files**, choose the JSON collection that you have just downloaded, and click **Open**.
+3. Click the **Import** button to load the collection.
+4. The collection will now be available in Postman under **Collections** on the left sidebar. All folders and requests will be imported.
