@@ -36,7 +36,7 @@ Inside the ZIP file, you will find the
 
 ## Run tests
 
-The **Collection Runner** enables you to run the requests in a Postman Collection in a specified order to test the functionality of the API of the SUT.
+The **Collection Runner** enables you to run the requests in a Postman collection in a specified order to test the functionality of the API of the SUT.
 
 1. Select **Collections** in the sidebar and select the imported Postman collection.
 2. Click three dots on the right and select **Run collection**.
