@@ -27,11 +27,17 @@ Inside the ZIP file, you will find the
 
 ## Import a JSON collection into Postman
 
-Here are the steps to import a JSON collection into Postman:
-
 1. Open Postman and click the **Import** button in the top left.
 2. In the import modal, click **Select Files**, choose the JSON collection that you have just downloaded, and click **Open**.
 3. Click the **Import** button to load the collection.
 4. The collection will now be available in Postman under **Collections** on the left sidebar. All folders and requests will be imported.
 
 ![plot](https://github.com/mgrybel/api-testing-postman/blob/master/images/step1.png?raw=true)
+
+## Run tests
+
+The **Collection Runner** enables you to run the requests in a Postman Collection in a specified order to test the functionality of the API of the SUT.
+
+1. Select **Collections** in the sidebar and select the imported Postman collection.
+2. Click three dots on the right and select **Run collection**.
+3. Select the **Run manually** option and click **Run EcommerceWebsiteAPITests**.
